@@ -7,7 +7,7 @@ This project is a React + TypeScript Todo application built with Vite. It includ
 - Name: `Muhammaddin`
 - Student ID: `250788`
 - Date: `2026-03-20`
-- Live URL: `PENDING_DEPLOYMENT`
+- Live URL: `https://lab10-todo.vercel.app`
 
 ## Features
 
@@ -110,7 +110,11 @@ Output Directory: dist
 Install Command: npm install
 ```
 
-After deployment, replace `PENDING_DEPLOYMENT` above with the actual Vercel URL.
+Production deployment URL:
+
+```text
+https://lab10-todo.vercel.app
+```
 
 ### Netlify
 

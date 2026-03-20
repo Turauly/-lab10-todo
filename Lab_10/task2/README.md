@@ -5,7 +5,7 @@
 - Name: `Muhammaddin`
 - Student ID: `250788`
 - Date: `2026-03-20`
-- Live URL: `PENDING_DEPLOYMENT`
+- Live URL: `https://lab10-todo.vercel.app`
 
 ## Objective
 
@@ -34,7 +34,11 @@ Output Directory: dist
 Install Command: npm install
 ```
 
-5. Deploy and replace `PENDING_DEPLOYMENT` with the real URL.
+5. Deploy and use the production URL:
+
+```text
+https://lab10-todo.vercel.app
+```
 
 ## CI/CD
 
