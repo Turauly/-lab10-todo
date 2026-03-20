@@ -4,8 +4,8 @@ This project is a React + TypeScript Todo application built with Vite. It includ
 
 ## Student Information
 
-- Name: `YOUR_NAME`
-- Student ID: `YOUR_STUDENT_ID`
+- Name: `Muhammaddin`
+- Student ID: `250788`
 - Date: `2026-03-20`
 - Live URL: `PENDING_DEPLOYMENT`
 
